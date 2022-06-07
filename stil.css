@@ -1,0 +1,43 @@
+body {
+  background-repeat: repeat-y;
+}
+h1 {
+  font-family: "Arial";
+  color: white;
+}
+
+h2 {
+  font-family: "Arial";
+  color: white;
+}
+
+h3 {
+  font-family: "Arial";
+  color: white;
+}
+
+
+p {
+  font-family: "Cambria";
+  line-height: 250%;
+  color: white;
+}
+
+
+
+ul {
+  font-family: "Arial";
+  color: white;
+}
+
+
+li {
+  font-family: "Arial";
+  color: white;
+}
+
+li a{
+  font-family: "Arial";
+  color: white;
+}
+
