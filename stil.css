@@ -27,6 +27,13 @@ p {
 }
 
 
+p1 {
+  font-family: "Cambria";
+  line-height: 250%;
+  color: white;
+}
+
+
 ul {
   font-family: "Arial";
   color: white;
