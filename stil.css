@@ -5,6 +5,7 @@ body {
 h1 {
   font-family: "Arial";
   color: white;
+  text-decoration: underline;
 }
 
 h2 {
