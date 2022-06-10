@@ -1,0 +1,62 @@
+body {
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+h1 {
+  font-family: "Arial";
+  color: white;
+  text-decoration: underline;
+}
+
+h2 {
+  font-family: "Arial";
+  color: white;
+}
+
+h3 {
+  font-family: "Arial";
+  color: white;
+}
+
+
+p {
+  font-family: "Cambria";
+  line-height: 250%;
+  color: white;
+  font-size: 30px;
+}
+
+
+p1 {
+  font-family: "Cambria";
+  line-height: 250%;
+  color: white;
+}
+
+
+ul {
+  font-family: "Arial";
+  color: white;
+  font-size: 30px;
+}
+
+
+li {
+  font-family: "Arial";
+  color: white;
+  font-size: 30px;
+}
+
+li a{
+  font-family: "Arial";
+  color: white;
+  font-size: 30px;
+}
+
+#slike{
+	text-align:center;
+}
+
+
+
+
